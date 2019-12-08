@@ -16,6 +16,7 @@ dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-data-mongodb'
     compile 'org.projectlombok:lombok:1.18.10'
+    annotationProcessor 'org.projectlombok:lombok:1.18.10'
     compile "com.google.guava:guava:16+"
     compile "org.apache.commons:commons-lang3:3.7"
     compile "com.google.code.gson:gson:2.7"
